@@ -1,0 +1,36 @@
+# Local secrets and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+credentials*.json
+service-account*.json
+
+# Local machine and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Python and development caches
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+*.log
+
+# Hosting metadata and local provenance with absolute machine paths
+.openai/
+.vercel/
+.netlify/
+assets/user-art-sources.json
+
+# Generated self-contained export: rebuild with python3 build.py
+# Keep third-party images out of public exports until rights are cleared.
+dist/

@@ -1,0 +1,50 @@
+[
+  {
+    "file": "day-off-cover.jpg",
+    "title": "Day Off",
+    "author": "Dailygreens (每日青菜)",
+    "dimensions": [
+      713,
+      1024
+    ],
+    "source_page": "https://taiwan-comic-city.taicca.tw/book?id=47&lang=en",
+    "image_url": "https://taicca-taiwan-comic-city.s3.ap-northeast-3.amazonaws.com/s3/Comic/TCC-47-Book.jpg",
+    "copyright": "《DAY OFF》©每日青菜／留守番工作室"
+  },
+  {
+    "file": "oracle-cover.jpg",
+    "title": "The Oracle Comes",
+    "author": "Manga: Barz / Original: Teensy (星子)",
+    "dimensions": [
+      1128,
+      1600
+    ],
+    "source_page": "https://taiwan-comic-city.taicca.tw/book?id=246&lang=en",
+    "image_url": "https://taicca-taiwan-comic-city.s3.ap-northeast-3.amazonaws.com/s3/Comic/20260423_155859583-cover%283%29.jpg",
+    "copyright": "©Barz、Teensy／DYNA BOOKS"
+  },
+  {
+    "file": "day-off-shih-tung-yun.jpg",
+    "title": "Day Off — Shih Tung-yun",
+    "author": "Dailygreens (每日青菜)",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "source_page": "https://taiwan-comic-city.taicca.tw/book?id=47&lang=en",
+    "image_url": "https://taicca-taiwan-comic-city.s3.ap-northeast-3.amazonaws.com/s3/Comic/TCC-47-P1.jpg",
+    "copyright": "《DAY OFF》©每日青菜／留守番工作室"
+  },
+  {
+    "file": "oracle-han-jie.png",
+    "title": "The Oracle Comes — Han Jie",
+    "author": "Manga: Barz / Original: Teensy (星子)",
+    "dimensions": [
+      417,
+      447
+    ],
+    "source_page": "https://taiwan-comic-city.taicca.tw/book?id=246&lang=en",
+    "image_url": "https://taicca-taiwan-comic-city.s3.ap-northeast-3.amazonaws.com/s3/Comic/20260423_160130100-%E9%9F%93%E6%9D%B0.png",
+    "copyright": "©Barz、Teensy／DYNA BOOKS"
+  }
+]
